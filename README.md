@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kent and I'm a Students Web Developer from Philippines</h2>
+<h2 align="left">Hi, I'm Kent Daniel E. Dulman — a passionate developer focused on building clean, user-friendly, and efficient web applications. 🌱 Always learning, always coding. 🚀 Let's build something awesome!</h2>
 
 ###
 
