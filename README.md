@@ -44,32 +44,26 @@
   <p>Discover my work — handcrafted with attention to detail, passion, and purpose.</p>
   
   ## SOON
-  
+
 </div>
 
 ---
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princesanguan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesanguan&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShioriiCodes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShioriiCodes&layout=compact&langs_count=8&theme=merko"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesanguan&theme=react-dark&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShioriiCodes&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 ---
 
 ## 📫 Let's Connect
 <div align="center">
-  <a href="mailto:princesanguan44@gmail.com">
+  <a href="mailto:kenzunknowntv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/prince_san84921">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </div>
