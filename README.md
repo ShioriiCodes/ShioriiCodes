@@ -35,18 +35,16 @@
 
 ---
 
-## ✨ My Portfolio
+
+## My Portfolio
 
 <div align="center">
-  <h3>🌟 Want to see my astonishing projects? 🌟</h3>
+  <h3>This is where my projects is </h3>
   
-  <p>Visit my website where you'll discover beautiful creations crafted with hardwork and love!</p>
+  <p>Discover my work — handcrafted with attention to detail, passion, and purpose.</p>
   
-  <a href="https://www.psanguan.com">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
-  </a>
+  ## SOON
   
-  <p>✨ <i>Where creativity meets functionality</i> ✨</p>
 </div>
 
 ---
