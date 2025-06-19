@@ -15,18 +15,26 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Full Stack Developer** specializing in Laravel and Web Development
-- 📱 Currently exploring **Flutter** for cross-platform mobile development
-- ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
-- 🎓 Bachelor of science in Statistics graduate
-- 🤝 Open to collaborating on innovative web projects
+- 💻 **Soon to be Full Stack Developer** specializing in Laravel and Web Development
+- 📱 Currently exploring **Laravel** for framework
+- 🎓 Bachelor of science in Information Technology graduate 2025 Batch 27th
 
 ---
 
 ## 🛠️ Tech Stack
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- React Badge -->
+<span class="inline-flex items-center bg-[#20232A] text-[#61DAFB] font-semibold px-3 py-1 rounded-md text-sm">
+  <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24"><!-- React logo SVG here --></svg>
+  React
+</span>
+
+<!-- Bootstrap Badge -->
+<span class="inline-flex items-center bg-[#563D7C] text-white font-semibold px-3 py-1 rounded-md text-sm">
+  <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24"><!-- Bootstrap logo SVG here --></svg>
+  Bootstrap
+</span>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Backend**
