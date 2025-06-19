@@ -1,55 +1,56 @@
 <div align="center">
-  <h1>👋 Hello, I'm Kent Dulman</h1>
-  <h3>Soon to be Full Stack Web Developer | A bit Laravel Specialist </h3>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <h1>Hey there! I'm Kent Dulman 👨‍💻</h1>
+  <h3>Aspiring Full Stack Web Developer | Focused on Laravel Excellence</h3>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="mailto:kenzunknowntv@gmail.com">
-      <img src="https://img.shields.io/badge/Email-kenzunknowntv@gmail.com-important?style=flat&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Me-important?style=flat&logo=gmail" alt="Email Badge" />
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Trying+to+do+better+in+Life;;Continuous+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code.+Learn.+Repeat.;Building+projects+with+passion.;Always+in+beta+mode." alt="Typing Animation" />
 </div>
 
 ---
 
-## 🚀 About Me
-- 💻 **Soon to be Full Stack Developer** specializing in Laravel and Web Development
-- 📱 Currently exploring **Laravel** for framework and Dashboard
-- 🎓 Bachelor of science in Information Technology graduate 2025 Batch 27th
+## 🚀 A Little About Me
+
+- 🌱 Future **Full Stack Web Developer** with a growing love for backend systems.
+- 🧠 Currently diving deep into **Laravel** and dashboard development.
+- 🎓 Finishing my **Bachelor’s Degree in Information Technology**, Batch 2025.
+- 🛠 Always exploring tools, best practices, and real-world project workflows.
 
 ---
 
-## 🛠️ Tech Stack
-### **Frontend**
-<!-- Tailwind Badge -->
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🧰 Tech Toolbox
+
+### Frontend
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-
-## My Portfolio
+## 🧪 Portfolio Preview
 
 <div align="center">
-  <h3>This is where my projects is </h3>
-  
-  <p>Discover my work — handcrafted with attention to detail, passion, and purpose.</p>
-  
-  ## SOON
-
+  <h3>Curious what I’ve built?</h3>
+  <p>Take a peek into my digital lab — where creativity meets code.</p>
+  <p><em>Projects Coming Soon!</em> 🚧</p>
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShioriiCodes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShioriiCodes&layout=compact&langs_count=8&theme=merko"/>
@@ -61,9 +62,10 @@
 
 ---
 
-## 📫 Let's Connect
+## 📬 Get in Touch
+
 <div align="center">
   <a href="mailto:kenzunknowntv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Kent_Dulman-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
