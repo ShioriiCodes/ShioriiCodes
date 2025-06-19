@@ -16,36 +16,24 @@
 
 ## 🚀 About Me
 - 💻 **Soon to be Full Stack Developer** specializing in Laravel and Web Development
-- 📱 Currently exploring **Laravel** for framework
+- 📱 Currently exploring **Laravel** for framework and Dashboard
 - 🎓 Bachelor of science in Information Technology graduate 2025 Batch 27th
 
 ---
 
 ## 🛠️ Tech Stack
 ### **Frontend**
-<!-- React Badge -->
-<span class="inline-flex items-center bg-[#20232A] text-[#61DAFB] font-semibold px-3 py-1 rounded-md text-sm">
-  <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24"><!-- React logo SVG here --></svg>
-  React
-</span>
-
-<!-- Bootstrap Badge -->
-<span class="inline-flex items-center bg-[#563D7C] text-white font-semibold px-3 py-1 rounded-md text-sm">
-  <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24"><!-- Bootstrap logo SVG here --></svg>
-  Bootstrap
-</span>
-
+<!-- Tailwind Badge -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- CSS3 Badge -->
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- JavaScript Badge -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Mobile & Others**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
