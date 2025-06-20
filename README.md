@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="mailto:kenzunknowntv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kenzunknowntv@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
