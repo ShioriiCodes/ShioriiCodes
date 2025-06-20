@@ -6,9 +6,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:kenzunknowntv@gmail.com">
-    [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:kenzunknowntv@gmail.com
-  </a>
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:kenzunknowntv@gmail.com)
+
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Building+what+I+dream.;Always+learning." alt="Typing SVG" />
