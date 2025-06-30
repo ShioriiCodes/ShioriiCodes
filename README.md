@@ -5,7 +5,7 @@
 ### Aspiring Full Stack Developer | Laravel Enthusiast
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShioriiCodes-v2&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="mailto:kenzunknowntv@gmail.com">
     <img src="https://img.shields.io/badge/Email-kenzunknowntv@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
