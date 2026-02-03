@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **Kent Dulman**
 
-### Aspiring Full Stack Developer | Laravel Enthusiast
+### Aspiring Full Stack Developer | Laravel & Mobile App Developer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShioriiCodes-v2&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,8 +11,7 @@
   </a>
 </p>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Building+what+I+dream.;Always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Building+real-world+apps.;Always+learning." alt="Typing SVG" />
 
 </div>
 
@@ -20,11 +19,12 @@
 
 ## 🚀 About Me
 
-- 🌱 Working my way to become a **Full Stack Web Developer**
-- ⚙️ Special focus on **Laravel**, PHP, and building admin dashboards
-- 🎓 IT student, **Batch 2025** — passionate about code and clean UI
-- 🔍 Constantly learning new technologies and frameworks
-- 💡 Loves crafting efficient, meaningful digital experiences
+- 🌱 Working my way to become a **Full Stack Developer**
+- 📱 Building **mobile applications using Flutter & Firebase**
+- ⚙️ Strong focus on **Laravel**, PHP, and admin dashboards
+- 🛠️ Experience with **Firebase Auth, Firestore, Crash Logs, and Activity Logs**
+- 🎓 IT student, **Batch 2025**
+- 💡 Loves crafting clean, efficient, real-world digital solutions
 
 ---
 
@@ -40,7 +40,9 @@
 
 </div>
 
-### 🧪 Backend 
+---
+
+### 🧪 Backend
 
 <div align="center">
 
@@ -52,14 +54,57 @@
 
 ---
 
+### 📱 Mobile & Cloud
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 📱 App Development
+
+I build **production-ready mobile applications** designed for real operations, not just demos.
+
+### 🔥 What I Build
+- 📦 Service & delivery apps
+- 🧾 Admin-managed systems (manual operations)
+- 🔐 Authentication (Email, Google, Guest)
+- ☁️ Firebase-powered backends
+- 📊 Crash & user activity logging
+- 📐 Fully responsive Flutter UI
+
+### 🧠 Currently Working On
+- 🚚 **Fuel Delivery App (Flutter + Firebase)**
+  - Cash on Delivery system
+  - User authentication & account linking
+  - Order tracking (Pending, Processing, Delivered, Rejected)
+  - Admin Web Panel (Firebase Hosting)
+  - Crash logs & user activity logs
+  - Built for scalability and future upgrades
+
+> Focused on **real-world usability**, stability, and clean architecture.
+
+---
+
 ## 🌐 Portfolio
 
 <div align="center">
 
 ### 🔧 In the Works
 
-<p>Peek into the world I’m building — each project designed with passion and precision.</p>
-<p><em>My portfolio will be live soon — stay tuned!</em> 🚀</p>
+<p>
+Currently developing and refining:
+</p>
+
+- 📱 Mobile applications (Flutter + Firebase)
+- 🌐 Admin dashboards (Web-based)
+- 🗄️ Secure databases & logging systems
+
+<p><em>Portfolio coming soon — featuring real deployed projects.</em> 🚀</p>
 
 </div>
 
