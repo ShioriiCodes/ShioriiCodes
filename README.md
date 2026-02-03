@@ -20,9 +20,8 @@
 ## 🚀 About Me
 
 - 🌱 Working my way to become a **Full Stack Developer**
-- 📱 Building **mobile applications using Flutter & Firebase**
+- 📱 Building **mobile applications using Flutter**
 - ⚙️ Strong focus on **Laravel**, PHP, and admin dashboards
-- 🛠️ Experience with **Firebase Auth, Firestore, Crash Logs, and Activity Logs**
 - 🎓 IT student, **Batch 2025**
 - 💡 Loves crafting clean, efficient, real-world digital solutions
 
