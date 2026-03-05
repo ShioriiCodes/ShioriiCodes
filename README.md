@@ -1,135 +1,186 @@
 <div align="center">
 
-# 👋 Hey there! I'm **Kent Dulman**
+# 👋 Hi, I'm **Kent Daniel Dulman**
 
-### Aspiring Full Stack Developer | Laravel & Mobile App Developer
+### Laravel Developer • SaaS Builder • Mobile App Developer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ShioriiCodes-v2&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=7c3aed&style=flat" />
   <a href="mailto:kenzunknowntv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kenzunknowntv@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-kenzunknowntv@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Building+real-world+apps.;Always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+SaaS+Platforms;Laravel+Developer;AI+Tools+%26+Business+Applications;Clean+Code.+Scalable+Systems." />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🌱 Working my way to become a **Full Stack Developer**
-- 📱 Building **mobile applications using Flutter**
-- ⚙️ Strong focus on **Laravel**, PHP, and admin dashboards
-- 🎓 IT student, **Batch 2025**
-- 💡 Loves crafting clean, efficient, real-world digital solutions
+I am a **Laravel developer focused on building real-world software systems** including SaaS platforms, AI tools, and business management applications.
+
+My goal is to create **scalable, production-ready systems** that solve real operational problems for businesses.
+
+### What I Focus On
+
+• SaaS platform development  
+• Laravel backend architecture  
+• Admin dashboards and business systems  
+• API integrations and AI tools  
+• Mobile applications using Flutter  
+
+I enjoy transforming **complex ideas into clean, reliable software.**
 
 ---
 
-## 🛠️ My Tech Stack
+# 🛠 Tech Stack
 
-### 🧩 Frontend
+### Frontend
 
 <div align="center">
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-### 🧪 Backend
+### Backend
 
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 </div>
 
 ---
 
-### 📱 Mobile & Cloud
+### Mobile & Cloud
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📱 App Development
+# 🚀 Featured Projects
 
-I build **production-ready mobile applications** designed for real operations, not just demos.
+### 🧠 PromptForge
+**AI Content Generator SaaS**
 
-### 🔥 What I Build
-- 📦 Service & delivery apps
-- 🧾 Admin-managed systems (manual operations)
-- 🔐 Authentication (Email, Google, Guest)
-- ☁️ Firebase-powered backends
-- 📊 Crash & user activity logging
-- 📐 Fully responsive Flutter UI
+A Laravel-powered platform that generates marketing content, blog posts, and social media captions using AI.
 
-### 🧠 Currently Working On
-- 🚚 **Fuel Delivery App (Flutter + Firebase)**
-  - Cash on Delivery system
-  - User authentication & account linking
-  - Order tracking (Pending, Processing, Delivered, Rejected)
-  - Admin Web Panel (Firebase Hosting)
-  - Crash logs & user activity logs
-  - Built for scalability and future upgrades
+Features:
 
-> Focused on **real-world usability**, stability, and clean architecture.
+• OpenAI API integration  
+• Prompt templates  
+• Generation history  
+• Credits system  
+• Analytics dashboard  
+• Custom Laravel dashboard UI  
+
+Tech Stack  
+Laravel • Tailwind • MySQL • OpenAI API
 
 ---
 
-## 🌐 Portfolio
+### 📊 FlowPilot
+**Business Management SaaS**
+
+A multi-module system designed for businesses to manage customers, bookings, services, and payments.
+
+Features:
+
+• Multi-tenant architecture  
+• Customer management  
+• Booking & scheduling system  
+• Payment tracking  
+• Calendar dashboard  
+• Role-based permissions  
+
+Tech Stack  
+Laravel • Tailwind • MySQL • REST API
+
+---
+
+### 🍽 ServeFlow
+**Restaurant Ordering System**
+
+A digital ordering and management system for restaurants.
+
+Features:
+
+• Menu management  
+• Table QR ordering  
+• Customer cart system  
+• Kitchen order display  
+• Live order notifications  
+• Admin dashboard  
+
+Tech Stack  
+Laravel • Blade • Tailwind • MySQL
+
+---
+
+# 📱 Mobile Application Development
+
+I also develop **mobile applications using Flutter**.
+
+### Example Project
+
+🚚 **Fuel Delivery Mobile App**
+
+Features:
+
+• Email / Google authentication  
+• Cash on Delivery ordering  
+• Order status tracking  
+• Firebase backend  
+• Crash logging & activity monitoring  
+• Admin web panel  
+
+Built for **real operational use**, not just prototypes.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-### 🔧 In the Works
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShioriiCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p>
-Currently developing and refining:
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShioriiCodes&layout=compact&langs_count=8&theme=tokyonight"/>
 
-- 📱 Mobile applications (Flutter + Firebase)
-- 🌐 Admin dashboards (Web-based)
-- 🗄️ Secure databases & logging systems
+<br>
 
-<p><em>Portfolio coming soon — featuring real deployed projects.</em> 🚀</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShioriiCodes&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📫 Contact
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShioriiCodes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShioriiCodes&layout=compact&langs_count=8&theme=merko"/>
+📧 Email  
+kenzunknowntv@gmail.com
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShioriiCodes&theme=react-dark&hide_border=true&area=true" width="90%"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
+Available for **freelance Laravel development projects.**
 
 <a href="mailto:kenzunknowntv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kenzunknowntv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+<img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
