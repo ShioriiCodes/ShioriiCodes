@@ -211,7 +211,7 @@ Unity • C# • 2D Game Systems
 📧 Email  
 **kenzunknowntv@gmail.com**
 
-Available for **freelance Laravel development, SaaS systems, and web applications.**
+Available for **freelance projects including SaaS platforms, Laravel web applications, and Flutter mobile app development.**
 
 <a href="mailto:kenzunknowntv@gmail.com">
 <img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
