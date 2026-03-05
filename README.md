@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Kent Daniel Dulman**
 
-### Laravel Developer • SaaS Builder • Mobile App Developer
+### Full Stack Developer • Laravel • Mobile Apps • Unity Game Development
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShioriiCodes&label=Profile%20Views&color=7c3aed&style=flat" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+SaaS+Platforms;Laravel+Developer;AI+Tools+%26+Business+Applications;Clean+Code.+Scalable+Systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Laravel+SaaS+Developer;Building+AI+Tools+and+Business+Systems;Flutter+Mobile+App+Developer;Unity+Game+Development;Clean+Code.+Scalable+Systems." />
 
 </div>
 
@@ -19,9 +19,9 @@
 
 # 👨‍💻 About Me
 
-I am a **Laravel developer focused on building real-world software systems** including SaaS platforms, AI tools, and business management applications.
+I am a **full stack developer focused on building real-world software systems** including SaaS platforms, AI tools, business management systems, and mobile applications.
 
-My goal is to create **scalable, production-ready systems** that solve real operational problems for businesses.
+My goal is to create **scalable, production-ready applications** that solve real operational problems.
 
 ### What I Focus On
 
@@ -30,6 +30,7 @@ My goal is to create **scalable, production-ready systems** that solve real oper
 • Admin dashboards and business systems  
 • API integrations and AI tools  
 • Mobile applications using Flutter  
+• Gameplay systems using Unity and C#
 
 I enjoy transforming **complex ideas into clean, reliable software.**
 
@@ -37,19 +38,20 @@ I enjoy transforming **complex ideas into clean, reliable software.**
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 <div align="center">
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-### Backend
+## Backend
 
 <div align="center">
 
@@ -62,13 +64,23 @@ I enjoy transforming **complex ideas into clean, reliable software.**
 
 ---
 
-### Mobile & Cloud
+## Mobile & Cloud
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
+
+</div>
+
+---
+
+## Game Development
+
+<div align="center">
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
@@ -76,16 +88,35 @@ I enjoy transforming **complex ideas into clean, reliable software.**
 
 # 🚀 Featured Projects
 
-### 🧠 PromptForge
+## 📊 FlowPilot
+**Business Management SaaS**
+
+A platform designed to help businesses manage operations including customers, bookings, services, and payments.
+
+Key Features
+
+• Multi-tenant architecture  
+• Customer management  
+• Booking system  
+• Service management  
+• Calendar scheduling  
+• Role-based permissions  
+
+Tech Stack  
+Laravel • Tailwind CSS • MySQL • REST API
+
+---
+
+## 🧠 PromptForge
 **AI Content Generator SaaS**
 
-A Laravel-powered platform that generates marketing content, blog posts, and social media captions using AI.
+A web platform that generates marketing content using AI.
 
-Features:
+Key Features
 
 • OpenAI API integration  
-• Prompt templates  
-• Generation history  
+• AI prompt templates  
+• Content generation history  
 • Credits system  
 • Analytics dashboard  
 • Custom Laravel dashboard UI  
@@ -95,33 +126,14 @@ Laravel • Tailwind • MySQL • OpenAI API
 
 ---
 
-### 📊 FlowPilot
-**Business Management SaaS**
-
-A multi-module system designed for businesses to manage customers, bookings, services, and payments.
-
-Features:
-
-• Multi-tenant architecture  
-• Customer management  
-• Booking & scheduling system  
-• Payment tracking  
-• Calendar dashboard  
-• Role-based permissions  
-
-Tech Stack  
-Laravel • Tailwind • MySQL • REST API
-
----
-
-### 🍽 ServeFlow
+## 🍽 ServeFlow
 **Restaurant Ordering System**
 
-A digital ordering and management system for restaurants.
+A digital ordering system that allows restaurants to manage menus and receive orders.
 
-Features:
+Key Features
 
-• Menu management  
+• Menu and category management  
 • Table QR ordering  
 • Customer cart system  
 • Kitchen order display  
@@ -129,28 +141,49 @@ Features:
 • Admin dashboard  
 
 Tech Stack  
-Laravel • Blade • Tailwind • MySQL
+Laravel • Blade • Tailwind CSS • MySQL
 
 ---
 
-# 📱 Mobile Application Development
+# 📱 Mobile App Development
 
-I also develop **mobile applications using Flutter**.
+I develop **mobile applications using Flutter** focused on real operational use.
 
-### Example Project
+### 🚚 Fuel Delivery Mobile App
 
-🚚 **Fuel Delivery Mobile App**
+A mobile platform designed for fuel ordering and delivery services.
 
-Features:
+Features
 
 • Email / Google authentication  
-• Cash on Delivery ordering  
+• Cash on Delivery ordering system  
 • Order status tracking  
 • Firebase backend  
-• Crash logging & activity monitoring  
+• Crash logging and activity monitoring  
 • Admin web panel  
 
-Built for **real operational use**, not just prototypes.
+Built with **Flutter + Firebase** for scalability and reliability.
+
+---
+
+# 🎮 Game Development
+
+I also experiment with **game development using Unity and C#**.
+
+### ⚔️ Zigvy Adventure
+
+A **2D action-adventure prototype game** focused on combat and gameplay systems.
+
+Features
+
+• Player movement and combat system  
+• Enemy AI behavior  
+• Character abilities and powers  
+• Sprite animations  
+• Physics and collision systems  
+
+Tech Stack  
+Unity • C# • 2D Game Systems
 
 ---
 
@@ -175,9 +208,9 @@ Built for **real operational use**, not just prototypes.
 <div align="center">
 
 📧 Email  
-kenzunknowntv@gmail.com
+**kenzunknowntv@gmail.com**
 
-Available for **freelance Laravel development projects.**
+Available for **freelance Laravel development, SaaS systems, and web applications.**
 
 <a href="mailto:kenzunknowntv@gmail.com">
 <img src="https://img.shields.io/badge/Contact_Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
